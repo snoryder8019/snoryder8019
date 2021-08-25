@@ -1,4 +1,4 @@
-- 👋 Hi, Scotty
+- 👋 Hi, I'm Scotty
 - 👀 I’m working on Node and Express
 - 🌱 I’m currently learning ...EVERYTHING
 - 💞️ I’m looking to collaborate on ...RVN projects, Game projects, and Node Js development
