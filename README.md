@@ -1,18 +1,17 @@
 - 👋 Hi, I'm Scotty
 - 👀 I’m working on Node and Express
-- 🌱 I’m currently learning ...EVERYTHING
-- 💞️ I’m looking to collaborate on ...RVN projects, Game projects, and Node Js development
+- 🌱 I have learned several methods of web development. Currently I am taking a deeper dive into Javascript and Backend Development.
+- 💞️ I’m looking to collaborate on ...PWAs, Game projects, and Node Js development
 - 📫 How to reach me ... scott@w2marketing.biz  -or- twitter @scottyDubSquaare
 
-view my sandbox section within my portfolio
-www.scottwallace.world/sandbox
+view my portfolio
+www.scottwallace.world
 
 
 
 I am a former restaurant area director. 
-I have been a great leader for my teams and employers. 
+I have been a dedicated leader for my teams and employers. 
 Covid put me into retirement, and coding was my way out. I began in July 2020
 
-I have begun to understand Linux and Git over tha last few months. 
-Here is my first real respository. I welcome community. 
+
 
