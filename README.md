@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...PWAs, Game projects, and Node Js development
 - 📫 How to reach me ... scott@w2marketing.biz  -or- twitter @scottyDubSquaare
 
-view my portfolio
+DONT view my portfolio.....It was awful. You can probably buy the domain if you want it. 
 www.scottwallace.world
 
 
